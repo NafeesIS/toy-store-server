@@ -1,0 +1,348 @@
+[
+    {
+      "picture": "avengers_robot_toy_1.jpg",
+      "toy_name": "Iron Man Robot Toy",
+      "seller_name": "Marvel Merchandise",
+      "seller_email": "marvelmerch@example.com",
+      "price": "29.99",
+      "rating": "4.5",
+      "available_quantity": "10",
+      "detail_description": "Bring the power of Iron Man to your playtime with this incredible robot toy! It features interactive lights, sounds, and articulating limbs. Join Iron Man and the rest of the Avengers on epic adventures!"
+    },
+    {
+      "picture": "avengers_robot_toy_2.jpg",
+      "toy_name": "Thor Robot Toy",
+      "seller_name": "Heroes R Us",
+      "seller_email": "heroesrus@example.com",
+      "price": "24.99",
+      "rating": "4.2",
+      "available_quantity": "15",
+      "detail_description": "Get ready for action-packed playtime with this Thor robot toy! With its realistic design and lightning powers, you can recreate your favorite Thor moments or create new ones. Join Thor and the Avengers today!"
+    },
+    {
+      "picture": "avengers_robot_toy_3.jpg",
+      "toy_name": "Hulk Robot Toy",
+      "seller_name": "Toy Galaxy",
+      "seller_email": "toygalaxy@example.com",
+      "price": "19.99",
+      "rating": "4.0",
+      "available_quantity":" 8",
+      "detail_description": "Unleash the power of Hulk with this incredible robot toy! It's equipped with Hulk's strength and smashing abilities. Help Hulk and the Avengers defeat their enemies and save the day!"
+    },
+    {
+      "picture": "avengers_robot_toy_4.jpg",
+      "toy_name": "Captain America Robot Toy",
+      "seller_name": "Superhero Shop",
+      "seller_email": "superheroshop@example.com",
+      "price": "27.99",
+      "rating": "4.7",
+      "available_quantity": "12",
+      "detail_description": "Prepare for patriotic battles with this Captain America robot toy! With its shield-throwing action and heroic features, you can engage in epic superhero showdowns. Team up with Captain America and the Avengers to protect justice!"
+    },
+    {
+      "picture": "avengers_robot_toy_5.jpg",
+      "toy_name": "Black Widow Robot Toy",
+      "seller_name": "Marvel Collectibles",
+      "seller_email": "marvelcollectibles@example.com",
+      "price": "32.99",
+      "rating": "4.9",
+      "available_quantity": "20",
+      "detail_description": "Experience the espionage skills of Black Widow with this top-of-the-line robot toy! It's packed with action-packed features and gadgets, allowing you to unleash your inner spy. Join Black Widow and the Avengers on covert missions!"
+    },
+    {
+      "picture": "avengers_robot_toy_6.jpg",
+      "toy_name": "Loki Robot Toy",
+      "seller_name": "Super Toys",
+      "seller_email": "supertoys@example.com",
+      "price": "23.99",
+      "rating": "4.3",
+      "available_quantity":" 6",
+      "detail_description": "Embrace mischief and chaos with this Loki robot toy! With its shape-shifting abilities and cunning tricks, you can recreate Loki's iconic moments or create your own mischief-filled adventures. Join Loki and the Avengers in their missions!"
+},
+    {
+      "picture": "avengers_robot_toy_7.jpg",
+      "toy_name": "Black Panther Robot Toy",
+      "seller_name": "Wakanda Warriors",
+      "seller_email": "wakandawarriors@example.com",
+      "price": "26.99",
+      "rating": "4.6",
+      "available_quantity": "10",
+      "detail_description": "Harness the strength and agility of Black Panther with this remarkable robot toy! It features advanced vibranium technology and combat skills. Join Black Panther and defend Wakanda from all threats!"
+    },
+    {
+      "picture": "xmen_robot_toy_1.jpg",
+      "toy_name": "Wolverine Robot Toy",
+      "seller_name": "Mutant Merch",
+      "seller_email": "mutantmerch@example.com",
+      "price": "29.99",
+      "rating": "4.5",
+      "available_quantity":" 8",
+      "detail_description": "Unleash the ferocity of Wolverine with this incredible robot toy! It's equipped with retractable adamantium claws and heightened senses. Join Wolverine and the X-Men in their quest to protect mutants!"
+    },
+    {
+      "picture": "xmen_robot_toy_2.jpg",
+      "toy_name": "Cyclops Robot Toy",
+      "seller_name": "X-Merchandise",
+      "seller_email": "xmerchandise@example.com",
+      "price": "24.99",
+      "rating": "4.2",
+      "available_quantity": "12",
+      "detail_description": "Channel the optic blasts of Cyclops with this amazing robot toy! It features glowing LED eyes and optic visor accessories. Join Cyclops and the X-Men in their fight for mutant rights!"
+    },
+    {
+      "picture": "xmen_robot_toy_3.jpg",
+      "toy_name": "Storm Robot Toy",
+      "seller_name": "Weather Warriors",
+      "seller_email": "weatherwarriors@example.com",
+      "price": "19.99",
+      "rating": "4.0",
+      "available_quantity": "10",
+      "detail_description": "Control the elements with this Storm robot toy! It features weather-manipulation capabilities and a majestic presence. Join Storm and the X-Men in their battle against evil!"
+    },
+    {
+      "picture": "xmen_robot_toy_4.jpg",
+      "toy_name": "Professor X Robot Toy",
+      "seller_name": "Mutant Academy",
+      "seller_email": "mutantacademy@example.com",
+      "price": "27.99",
+      "rating": "4.7",
+      "available_quantity": "15",
+      "detail_description": "Harness the power of telepathy with this Professor X robot toy! It comes with a wheelchair and mind-enhancing features. Join Professor X and the X-Men to protect mutants and promote peace!"
+    },
+    {
+      "picture": "xmen_robot_toy_5.jpg",
+      "toy_name": "Rogue Robot Toy",
+      "seller_name": "Mutant Mayhem",
+      "seller_email": "mutantmayhem@example.com",
+      "price": "32.99",
+      "rating": "4.9",
+      "available_quantity": "20",
+      "detail_description": "Absorb the abilities of others with this Rogue robot toy! It features enhanced strength and the power to temporarily borrow mutant powers. Join Rogue and the X-Men in their fight against prejudice!"
+    },
+        {
+      "picture": "dc_robot_toy_1.jpg",
+      "toy_name": "Flash Robot Toy",
+      "seller_name": "Speedster Toys",
+      "seller_email": "speedstertoys@example.com",
+      "price": "29.99",
+      "rating": "4.5",
+      "available_quantity": "10",
+      "detail_description": "Experience the lightning-fast speed of the Flash with this incredible robot toy! It's equipped with superhuman agility and the ability to run at incredible velocities. Join the Flash and protect Central City from villains!"
+    },
+    {
+      "picture": "dc_robot_toy_2.jpg",
+      "toy_name": "Superman Robot Toy",
+      "seller_name": "Kryptonian Collectibles",
+      "seller_email": "kryptoniancollectibles@example.com",
+      "price": "24.99",
+      "rating": "4.2",
+      "available_quantity": "15",
+      "detail_description": "Embrace the power of Superman with this remarkable robot toy! It features flight capabilities, super strength, and heat vision. Join Superman and defend the world from threats!"
+    },
+    {
+      "picture": "dc_robot_toy_3.jpg",
+      "toy_name": "Batman Robot Toy",
+      "seller_name": "Gotham Gadgets",
+      "seller_email": "gothamgadgets@example.com",
+      "price": "19.99",
+      "rating": "4.0",
+      "available_quantity":" 8",
+      "detail_description": "Unleash the detective skills of Batman with this high-tech robot toy! It comes with a utility belt, grappling hook, and advanced crime-fighting features. Join Batman and protect Gotham City from the forces of darkness!"
+    },
+    {
+      "picture": "dc_robot_toy_4.jpg",
+      "toy_name": "Wonder Woman Robot Toy",
+      "seller_name": "Amazonian Armory",
+      "seller_email": "amazonianarmory@example.com",
+      "price": "27.99",
+      "rating": "4.7",
+      "available_quantity": "12",
+      "detail_description": "Embrace the strength and grace of Wonder Woman with this incredible robot toy! It features a lasso of truth, indestructible bracelets, and powerful combat abilities. Join Wonder Woman and fight for justice and equality!"
+    },
+    {
+      "picture": "dc_robot_toy_5.jpg",
+      "toy_name": "Aquaman Robot Toy",
+      "seller_name": "Atlantean Treasures",
+      "seller_email": "atlanteantreasures@example.com",
+      "price": "32.99",
+      "rating": "4.9",
+      "available_quantity": "20",
+      "detail_description": "Dive into aquatic adventures with this Aquaman robot toy! It features underwater breathing capabilities, enhanced strength, and control over sea creatures. Join Aquaman and protect the oceans from threats!"
+    },
+    {
+      "picture": "transformers_robot_toy_1.jpg",
+      "toy_name": "Optimus Prime Robot Toy",
+      "seller_name": "Autobot Alliance",
+      "seller_email": "autobotalliance@example.com",
+      "price": "35.99",
+      "rating": "4.8",
+      "available_quantity": "18",
+      "detail_description": "Join the Autobots and their fearless leader Optimus Prime with this incredible robot toy! It transforms from a robot to a powerful truck and is known for its unwavering courage. Help Optimus Prime and protect the oceans from threats!"
+},
+    {
+      "picture": "transformers_robot_toy_2.jpg",
+      "toy_name": "Bumblebee Robot Toy",
+      "seller_name": "Cybertron Collectibles",
+      "seller_email": "cybertroncollectibles@example.com",
+      "price": "29.99",
+      "rating": "4.5",
+      "available_quantity": "15",
+      "detail_description": "Experience the loyalty and bravery of Bumblebee with this amazing robot toy! It transforms from a robot to a sleek car and is always ready for action. Join Bumblebee and the Autobots in their battle against the Decepticons!"
+    },
+    {
+      "picture": "transformers_robot_toy_3.jpg",
+      "toy_name": "Megatron Robot Toy",
+      "seller_name": "Decepticon Dominion",
+      "seller_email": "decepticondominion@example.com",
+      "price": "32.99",
+      "rating": "4.2",
+      "available_quantity": "10",
+      "detail_description": "Embrace the power and cunning of Megatron with this imposing robot toy! It transforms from a robot to a formidable tank and is determined to conquer the Autobots. Join Megatron and the Decepticons in their quest for domination!"
+    },
+    {
+      "picture": "transformers_robot_toy_4.jpg",
+      "toy_name": "Optimus Primal Robot Toy",
+      "seller_name": "Maximal Merchandise",
+      "seller_email": "maximalmerchandise@example.com",
+      "price": "27.99",
+      "rating": "4.0",
+      "available_quantity":" 8",
+      "detail_description": "Lead the Maximals with this mighty Optimus Primal robot toy! It transforms from a robot to a powerful gorilla and is known for its strategic thinking. Join Optimus Primal and defend the planet from the Predacons!"
+    },
+    {
+      "picture": "transformers_robot_toy_5.jpg",
+      "toy_name": "Starscream Robot Toy",
+      "seller_name": "Air Commander Collectibles",
+      "seller_email": "aircommandercollectibles@example.com",
+      "price": "24.99",
+      "rating": "4.7",
+      "available_quantity": "12",
+      "detail_description": "Embrace the treacherous nature of Starscream with this impressive robot toy! It transforms from a robot to a powerful fighter jet and is always plotting to overthrow Megatron. Join Starscream and the Decepticons in their quest for power!"
+    },
+    {
+      "picture": "cars_movie_robot_toy_1.jpg",
+      "toy_name": "Lightning McQueen Robot Toy",
+      "seller_name": "Piston Cup Collectibles",
+      "seller_email": "pistoncupcollectibles@example.com",
+      "price": "19.99",
+      "rating": "4.5",
+      "available_quantity": "15",
+      "detail_description": "Race to victory with this Lightning McQueen robot toy from the Cars movie! It features authentic details, sound effects, and racing abilities. Join Lightning McQueen and his friends on thrilling adventures!"
+    },
+    {
+      "picture": "cars_movie_robot_toy_2.jpg",
+      "toy_name": "Mater Robot Toy",
+      "seller_name": "Tow Truck Treasures",
+      "seller_email": "towtrucktreasures@example.com",
+      "price": "16.99",
+      "rating": "4.2",
+      "available_quantity": "10",
+      "detail_description": "Race to victory with this Lightning McQueen robot toy from the Cars movie! It features authentic details, sound effects, and racing abilities. Join Lightning McQueen and his friends on thrilling adventures!"
+},
+    {
+      "picture": "cars_movie_robot_toy_2.jpg",
+      "toy_name": "Mater Robot Toy",
+      "seller_name": "Tow Truck Treasures",
+      "seller_email": "towtrucktreasures@example.com",
+      "price": "16.99",
+      "rating": "4.2",
+      "available_quantity": "10",
+      "detail_description": "Join Mater, the lovable tow truck, with this delightful robot toy from the Cars movie! It features interactive phrases, towing capabilities, and a charming personality. Embark on fun-filled adventures with Mater and his friends!"
+    },
+    {
+      "picture": "cars_movie_robot_toy_3.jpg",
+      "toy_name": "Jackson Storm Robot Toy",
+      "seller_name": "Next-Gen Racers",
+      "seller_email": "nextgenracers@example.com",
+      "price": "21.99",
+      "rating": "4.0",
+      "available_quantity":" 8",
+      "detail_description": "Experience the speed and sleekness of Jackson Storm with this impressive robot toy from the Cars movie! It features a futuristic design, racing sounds, and high-performance abilities. Join Jackson Storm and dominate the racetrack!"
+    },
+    {
+      "picture": "cars_movie_robot_toy_4.jpg",
+      "toy_name": "Cruz Ramirez Robot Toy",
+      "seller_name": "Training Center Toys",
+      "seller_email": "trainingcentertoys@example.com",
+      "price": "18.99",
+      "rating": "4.7",
+      "available_quantity": "12",
+      "detail_description": "Train to be a champion with this Cruz Ramirez robot toy from the Cars movie! It features training mode, racing gear, and inspirational phrases. Join Cruz Ramirez and become the ultimate racer!"
+    },
+    {
+      "picture": "cars_movie_robot_toy_5.jpg",
+      "toy_name": "Francesco Bernoulli Robot Toy",
+      "seller_name": "Italian Stallions",
+      "seller_email": "italianstallions@example.com",
+      "price": "23.99",
+      "rating": "4.5",
+      "available_quantity": "15",
+      "detail_description": "Experience the competitive spirit of Francesco Bernoulli with this charismatic robot toy from the Cars movie! It features an Italian accent, racing moves, and a winning attitude. Join Francesco Bernoulli and race to victory!"
+    },
+    {
+      "picture": "construction_robot_toy_1.jpg",
+      "toy_name": "Excavator Robot Toy",
+      "seller_name": "Construction Playthings",
+      "seller_email": "constructionplaythings@example.com",
+      "price": "14.99",
+      "rating": "4.0",
+      "available_quantity": "10",
+      "detail_description": "Build and dig with this awesome excavator robot toy! It features realistic construction sounds, movable parts, and a sturdy design. Embark on construction adventures and create amazing structures!"
+    },
+    {
+      "picture": "construction_robot_toy_2.jpg",
+      "toy_name": "Bulldozer Robot Toy",
+      "seller_name": "Earth Movers",
+      "seller_email": "earthmovers@example.com",
+      "price": "16.99",
+      "rating": "4.2",
+      "available_quantity":" 8",
+      "detail_description": "Clear the way with this powerful bulldozer robot toy! It features a movable blade, robust construction, and sound effects. Join the construction crew and take on big projects"
+},
+    {
+      "picture": "construction_robot_toy_2.jpg",
+      "toy_name": "Bulldozer Robot Toy",
+      "seller_name": "Earth Movers",
+      "seller_email": "earthmovers@example.com",
+      "price": "16.99",
+      "rating": "4.2",
+      "available_quantity":" 8",
+      "detail_description": "Clear the way with this powerful bulldozer robot toy! It features a movable blade, robust construction, and sound effects. Join the construction crew and take on big projects with ease!"
+    },
+    {
+      "picture": "construction_robot_toy_3.jpg",
+      "toy_name": "Crane Robot Toy",
+      "seller_name": "Sky High Toys",
+      "seller_email": "skyhightoys@example.com",
+      "price": "19.99",
+      "rating": "4.4",
+      "available_quantity": "12",
+      "detail_description": "Reach new heights with this versatile crane robot toy! It features a rotating crane arm, lifting capabilities, and realistic construction sounds. Join the construction team and build magnificent structures!"
+    },
+    {
+      "picture": "construction_robot_toy_4.jpg",
+      "toy_name": "Dump Truck Robot Toy",
+      "seller_name": "Haulers Inc.",
+      "seller_email": "haulersinc@example.com",
+      "price": "17.99",
+      "rating": "4.1",
+      "available_quantity": "10",
+      "detail_description": "Haul heavy loads with this sturdy dump truck robot toy! It features a tilting bed, rugged design, and interactive functions. Join the hauling crew and transport materials to the construction site!"
+    },
+    {
+      "picture": "construction_robot_toy_5.jpg",
+      "toy_name": "Concrete Mixer Robot Toy",
+      "seller_name": "Mix Masters",
+      "seller_email": "mixmasters@example.com",
+      "price": "15.99",
+      "rating": "4.3",
+      "available_quantity": "10",
+      "detail_description": "Mix it up with this realistic concrete mixer robot toy! It features a rotating drum, sound effects, and a durable construction. Join the construction team and create solid foundations!"
+    }
+  ]
+
+
+
+
+     
+
