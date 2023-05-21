@@ -1,0 +1,35 @@
+[
+    {
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/715Fo%2BHMgbL._AC_SL1500_.jpg",
+        "toy_name": "Mater Robot Toy",
+        "sub_category": "The-Cars",
+        "seller_name": "Tow Truck Treasures",
+        "seller_email": "towtrucktreasures@example.com",
+        "price": "16.99",
+        "rating": "4.2",
+        "available_quantity": "10",
+        "detail_description": "Race to victory with this Lightning McQueen robot toy from the Cars movie! It features authentic details, sound effects, and racing abilities. Join Lightning McQueen and his friends on thrilling adventures!"
+  },
+  {
+    "picture": "https://static.digitecgalaxus.ch/Files/5/2/5/8/0/8/7/33689504.jpg",
+    "toy_name": "Starscream Robot Toy",
+    "sub_category": "Transformers",
+    "seller_name": "Air Commander Collectibles",
+    "seller_email": "aircommandercollectibles@example.com",
+    "price": "24.99",
+    "rating": "4.7",
+    "available_quantity": "12",
+    "detail_description": "Embrace the treacherous nature of Starscream with this impressive robot toy! It transforms from a robot to a powerful fighter jet and is always plotting to overthrow Megatron. Join Starscream and the Decepticons in their quest for power!"
+  },
+  {
+    "picture": "https://www.toyark.com/wp-content/uploads/2021/02/Fighting-Armor-Wolverine-Figure-010.jpg",
+    "toy_name": "Wolverine Robot Toy",
+    "sub_category": "X-Men",
+    "seller_name": "Mutant Merch",
+    "seller_email": "mutantmerch@example.com",
+    "price": "29.99",
+    "rating": "4.5",
+    "available_quantity":" 8",
+    "detail_description": "Unleash the ferocity of Wolverine with this incredible robot toy! It's equipped with retractable adamantium claws and heightened senses. Join Wolverine and the X-Men in their quest to protect mutants!"
+  }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "picture": "https://media.karousell.com/media/photos/products/2020/12/26/transformers_mechanical_team_m_1608993121_39b442cf_progressive",
+        "toy_name": "Bulldozer Robot Toy",
+        "sub_category": "Constructors",
+        "seller_name": "Earth Movers",
+        "seller_email": "earthmovers@example.com",
+        "price": "16.99",
+        "rating": "4.2",
+        "available_quantity":" 8",
+        "detail_description": "Clear the way with this powerful bulldozer robot toy! It features a movable blade, robust construction, and sound effects. Join the construction crew and take on big projects with ease!"
+      },
+      {
+        "picture": "https://img.fruugo.com/product/8/37/157929378_max.jpg",
+        "toy_name": "Crane Robot Toy",
+        "sub_category": "Constructors",
+        "seller_name": "Sky High Toys",
+        "seller_email": "skyhightoys@example.com",
+        "price": "19.99",
+        "rating": "4.4",
+        "available_quantity": "12",
+        "detail_description": "Reach new heights with this versatile crane robot toy! It features a rotating crane arm, lifting capabilities, and realistic construction sounds. Join the construction team and build magnificent structures!"
+      },
+      {
+        "picture": "https://m.media-amazon.com/images/I/51a1ZJbgyQL.jpg",
+        "toy_name": "Dump Truck Robot Toy",
+        "sub_category": "Constructors",
+        "seller_name": "Haulers Inc.",
+        "seller_email": "haulersinc@example.com",
+        "price": "17.99",
+        "rating": "4.1",
+        "available_quantity": "10",
+        "detail_description": "Haul heavy loads with this sturdy dump truck robot toy! It features a tilting bed, rugged design, and interactive functions. Join the hauling crew and transport materials to the construction site!"
+      }
+]

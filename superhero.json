@@ -1,0 +1,32 @@
+[
+    {
+        "picture": "avengers_robot_toy_6.jpg",
+        "toy_name": "Loki Robot Toy",
+        "seller_name": "Super Toys",
+        "seller_email": "supertoys@example.com",
+        "price": "23.99",
+        "rating": "4.3",
+        "available_quantity":" 6",
+        "detail_description": "Embrace mischief and chaos with this Loki robot toy! With its shape-shifting abilities and cunning tricks, you can recreate Loki's iconic moments or create your own mischief-filled adventures. Join Loki and the Avengers in their missions!"
+  },
+  {
+    "picture": "avengers_robot_toy_7.jpg",
+    "toy_name": "Black Panther Robot Toy",
+    "seller_name": "Wakanda Warriors",
+    "seller_email": "wakandawarriors@example.com",
+    "price": "26.99",
+    "rating": "4.6",
+    "available_quantity": "10",
+    "detail_description": "Harness the strength and agility of Black Panther with this remarkable robot toy! It features advanced vibranium technology and combat skills. Join Black Panther and defend Wakanda from all threats!"
+  },
+  {
+    "picture": "dc_robot_toy_3.jpg",
+    "toy_name": "Batman Robot Toy",
+    "seller_name": "Gotham Gadgets",
+    "seller_email": "gothamgadgets@example.com",
+    "price": "19.99",
+    "rating": "4.0",
+    "available_quantity":" 8",
+    "detail_description": "Unleash the detective skills of Batman with this high-tech robot toy! It comes with a utility belt, grappling hook, and advanced crime-fighting features. Join Batman and protect Gotham City from the forces of darkness!"
+  }
+]

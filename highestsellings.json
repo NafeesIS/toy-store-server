@@ -1,0 +1,35 @@
+[
+    {
+        "picture": "https://ae01.alicdn.com/kf/HTB1ms1pNVXXXXajapXXq6xXFXXXV/Diffuse-universe-thor-hand-model-Children-model-toys-Robot-Children-gifts-Christmas-gifts.jpg",
+        "toy_name": "Thor Robot Toy",
+        "sub_category": "Avengers",
+        "seller_name": "Heroes R Us",
+        "seller_email": "heroesrus@example.com",
+        "price": "24.99",
+        "rating": "4.2",
+        "available_quantity": "15",
+        "detail_description": "Get ready for action-packed playtime with this Thor robot toy! With its realistic design and lightning powers, you can recreate your favorite Thor moments or create new ones. Join Thor and the Avengers today!"
+      },
+      {
+        "picture": "https://i0.wp.com/pixarpost.com/wp-content/uploads/2020/10/ed7d3-ultimate-lightning-mcqueen-evening-photo.jpg?resize=1200%2C581&ssl=1",
+        "toy_name": "Francesco Bernoulli Robot Toy",
+        "sub_category": "The-Cars",
+        "seller_name": "Italian Stallions",
+        "seller_email": "italianstallions@example.com",
+        "price": "23.99",
+        "rating": "4.5",
+        "available_quantity": "15",
+        "detail_description": "Experience the competitive spirit of Francesco Bernoulli with this charismatic robot toy from the Cars movie! It features an Italian accent, racing moves, and a winning attitude. Join Francesco Bernoulli and race to victory!"
+      },
+      {
+        "picture": "https://brokerobot.com/cdn/shop/products/mezco-wonder-woman-figure-golden-lasso_1500x.jpg?v=1628525783",
+        "toy_name": "Wonder Woman Robot Toy",
+        "sub_category": "Justice-League",
+        "seller_name": "Amazonian Armory",
+        "seller_email": "amazonianarmory@example.com",
+        "price": "27.99",
+        "rating": "4.7",
+        "available_quantity": "12",
+        "detail_description": "Embrace the strength and grace of Wonder Woman with this incredible robot toy! It features a lasso of truth, indestructible bracelets, and powerful combat abilities. Join Wonder Woman and fight for justice and equality!"
+      }
+]

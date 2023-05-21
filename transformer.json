@@ -1,0 +1,35 @@
+[
+    {
+        "picture": "https://cdn.shopify.com/s/files/1/0169/6995/7440/products/OP-robot-angle_33b9512f-c751-4090-aebd-5401ca35b153.jpg?v=1669230896&width=1200",
+        "toy_name": "Optimus Prime Robot Toy",
+        "sub_category": "Transformers",
+        "seller_name": "Autobot Alliance",
+        "seller_email": "autobotalliance@example.com",
+        "price": "35.99",
+        "rating": "4.8",
+        "available_quantity": "18",
+        "detail_description": "Join the Autobots and their fearless leader Optimus Prime with this incredible robot toy! It transforms from a robot to a powerful truck and is known for its unwavering courage. Help Optimus Prime and protect the oceans from threats!"
+  },
+      {
+        "picture": "https://shop.hasbro.com/_next/image?url=https%3A%2F%2Fwww.hasbro.com%2Fcommon%2Fproductimages%2Fen_US%2FE179DA391FAA4B36A53B951D9ED7F3C9%2F5c68c00aa36fe7ffb5eaa6c7aad05b984cc03cba.jpg&w=3840&q=75",
+        "toy_name": "Bumblebee Robot Toy",
+        "sub_category": "Transformers",
+        "seller_name": "Cybertron Collectibles",
+        "seller_email": "cybertroncollectibles@example.com",
+        "price": "29.99",
+        "rating": "4.5",
+        "available_quantity": "15",
+        "detail_description": "Experience the loyalty and bravery of Bumblebee with this amazing robot toy! It transforms from a robot to a sleek car and is always ready for action. Join Bumblebee and the Autobots in their battle against the Decepticons!"
+      },
+      {
+        "picture": "https://i.ebayimg.com/images/g/ETsAAOSww41e0pN9/s-l1600.jpg",
+        "toy_name": "Megatron Robot Toy",
+        "sub_category": "Transformers",
+        "seller_name": "Decepticon Dominion",
+        "seller_email": "decepticondominion@example.com",
+        "price": "32.99",
+        "rating": "4.2",
+        "available_quantity": "10",
+        "detail_description": "Embrace the power and cunning of Megatron with this imposing robot toy! It transforms from a robot to a formidable tank and is determined to conquer the Autobots. Join Megatron and the Decepticons in their quest for domination!"
+      }
+]
