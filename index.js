@@ -57,14 +57,14 @@ async function run() {
       const query = { _id: new ObjectId(id) }
       const result = await myToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     app.get('/alltoys/:id', async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) }
       const result = await allToysCollection.findOne(query);
       res.send(result);
-        
+
     })
 
     app.put('/mytoys/:id', async (req, res) => {
@@ -74,16 +74,16 @@ async function run() {
       const options = { upsert: true };
       const updatedToy = {
         $set: {
-         toy_name: updatedInfo.toy_name,
-         seller_name: updatedInfo.seller_name,
-         picture: updatedInfo.picture,
-         seller_email: updatedInfo.seller_email,
-         sub_category: updatedInfo.sub_category,
-         available_quantity: updatedInfo.available_quantity,
-         detail_description: updatedInfo.detail_description,
+          toy_name: updatedInfo.toy_name,
+          seller_name: updatedInfo.seller_name,
+          picture: updatedInfo.picture,
+          seller_email: updatedInfo.seller_email,
+          sub_category: updatedInfo.sub_category,
+          available_quantity: updatedInfo.available_quantity,
+          detail_description: updatedInfo.detail_description,
         }
       }
-      const result = await myToysCollection.updateOne(filter,updatedToy,options)
+      const result = await myToysCollection.updateOne(filter, updatedToy, options)
       res.send(result);
     });
 
@@ -98,12 +98,13 @@ async function run() {
       const result = await query.toArray();
       res.send(result);
     });
+
     app.get('/superhero/:id', async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) }
       const result = await superHeroToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     app.get('/transformer', async (req, res) => {
       const query = transformerToysCollection.find();
@@ -115,7 +116,7 @@ async function run() {
       const query = { _id: new ObjectId(id) }
       const result = await transformerToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     app.get('/constructor', async (req, res) => {
       const query = constructorToysCollection.find();
@@ -127,7 +128,7 @@ async function run() {
       const query = { _id: new ObjectId(id) }
       const result = await constructorToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     app.get('/latesttoys', async (req, res) => {
       const query = latestToysCollection.find();
@@ -139,7 +140,7 @@ async function run() {
       const query = { _id: new ObjectId(id) }
       const result = await latestToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     app.get('/highestsellings', async (req, res) => {
       const query = highestSellingsToysCollection.find();
@@ -151,7 +152,7 @@ async function run() {
       const query = { _id: new ObjectId(id) }
       const result = await highestSellingsToysCollection.findOne(query);
       res.send(result);
-        
+
     })
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
